@@ -8,7 +8,7 @@ Overview
 The test case validates the subscription functionality on the homepage and footer of the application. It ensures that users can subscribe successfully by providing their email addresses and that the application displays a confirmation message upon successful subscription.
 
 Steps Covered:
-1. Navigate to the homepage of the application.\
+1. Navigate to the homepage of the application.
 2. Scroll down to the footer section to locate the subscription area.
 3. Enter a valid email address into the subscription input field.
 4. Click the "Subscribe" button.
